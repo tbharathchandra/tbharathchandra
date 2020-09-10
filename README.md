@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm **Bharath Chandra** aka **Boltzmann** :nerd_face:
-
-🔭 I'm currently developing a [Persistent Caching](https://github.com/openscad/openscad/pull/3316) :ledger: system for an open-source solid modelling software [OpenSCAD](https://www.openscad.org/) :star_struck: as my [GSOC](https://summerofcode.withgoogle.com/projects/#5522327720165376) :cowboy_hat_face: project. In this project I deal with huge serialized data of complex data structures which represents geometries in of course, OpenSCAD. I'm using boost for serializing these geometries, and as the name of the project suggests, I store this serialized data in redis to make it persistent.  
+## I'm **Bharath Chandra** aka **Boltzmann** :nerd_face: 
 
 [![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharathchandra.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bharath-chandra-blotzmann/)
